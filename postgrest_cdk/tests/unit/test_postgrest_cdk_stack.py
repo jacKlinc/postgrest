@@ -1,7 +1,7 @@
 import aws_cdk as core
 import aws_cdk.assertions as assertions
 
-from postgrest_cdk.postgrest_cdk_stack import PostgrestCdkStack
+from postgrest_cdk.postgrest_cdk.postgrest_stack import PostgrestCdkStack
 
 # example tests. To run these tests, uncomment this file along with the example
 # resource in postgrest_cdk/postgrest_cdk_stack.py
